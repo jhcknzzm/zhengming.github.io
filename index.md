@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/jhcknzzm/zhengming.github.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Abou Me
-Zhengming Zhang received the B.S. in electronic information science and technology from Nanjing Agricultural University, Nanjing, China, in 2016. Since September 2016, he is pursuing his PhD degree in information and communication engineering with the School of Information Science and Engineering, Southeast University. His current research interests include deep Learning, federated Learning, semi-supervised Learning, wireless big data, and 5G mobile networks.
+Zhengming Zhang received the B.S. in electronic information science and technology from Nanjing Agricultural University, Nanjing, China, in 2016. Since September 2016, he is pursuing his PhD degree in information and communication engineering with the School of Information Science and Engineering, Southeast University. His current research interests include **deep Learning, federated Learning, semi-supervised Learning, wireless big data, and 5G mobile networks**.
 
 ## Publications
 1. <font color='#006633' size=4>Benchmarking Semi-supervised Federated Learning</font> ZZ. Zhang, Z. Yao, Y. Yang, Y. Yan, J. E. Gonzalez, and M. W. Mahoney. [code](https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning)
