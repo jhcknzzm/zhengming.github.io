@@ -20,7 +20,9 @@ Syntax highlighted code block
 - List
 
 1. <font color=gray size=4>Benchmarking Semi-supervised Federated Learning</font>, Zhengming Zhang, Zhewei Yao, Yaoqing Yang, Yujun Yan, Joseph E. Gonzalez, Michael W. Mahoney. [code](https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning)
-2. List
+2. <font color=gray size=4>Double Coded Caching in Ultra Dense Networks: Caching and Multicast Scheduling via Deep Reinforcement Learning</font>, Z. Zhang, H. Chen, M. Hua, C. Li, Y. Huang and L. Yang, Communications, vol. 68, no. 2, pp. 1071-1086, Feb. 2020, doi: 10.1109/TCOMM.2019.2955490. [paper](https://ieeexplore.ieee.org/document/8911375)
+3. <font color=gray size=4>Proactive Caching for Vehicular Multi-View 3D Video Streaming via Deep Reinforcement Learning</font>, Z. Zhang, Y. Yang, M. Hua, C. Li, Y. Huang and L. Yang, in IEEE Transactions on Wireless Communications, vol. 18, no. 5, pp. 2693-2706, May 2019, doi: 10.1109/TWC.2019.2907077. [paper](https://ieeexplore.ieee.org/document/8677285)
+
 
 **Bold** and _Italic_ and `Code` text
 
