@@ -4,7 +4,7 @@
 You can use the [editor on GitHub](https://github.com/jhcknzzm/zhengming.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Abou Me
+## About Me
 Zhengming Zhang received the B.S. in electronic information science and technology from Nanjing Agricultural University, Nanjing, China, in 2016. Since September 2016, he is pursuing his PhD degree in information and communication engineering with the School of Information Science and Engineering, Southeast University. His current research interests include **deep Learning, federated Learning, semi-supervised Learning, wireless big data, and 5G mobile networks**.
 
 ## Publications
