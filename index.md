@@ -18,7 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Benchmarking Semi-supervised Federated Learning, Zhengming Zhang, Zhewei Yao, Yaoqing Yang, Yujun Yan, Joseph E. Gonzalez, Michael W. Mahoney. [code](https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning)
+1. <font color=gray size=4>Benchmarking Semi-supervised Federated Learning</font>, Zhengming Zhang, Zhewei Yao, Yaoqing Yang, Yujun Yan, Joseph E. Gonzalez, Michael W. Mahoney. [code](https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning)
 2. List
 
 **Bold** and _Italic_ and `Code` text
