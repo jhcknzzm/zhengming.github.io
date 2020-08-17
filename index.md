@@ -1,5 +1,5 @@
 ## Welcome to My Website
-![Image](https://github.com/jhcknzzm/zhengming.github.io/tree/gh-pages/img/school.jpg)
+![Image](https://github.com/jhcknzzm/zhengming.github.io/blob/gh-pages/img/zzm.jpg)
 
 You can use the [editor on GitHub](https://github.com/jhcknzzm/zhengming.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
