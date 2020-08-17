@@ -1,6 +1,4 @@
 ## Welcome to My Website
-![Image](https://github.com/jhcknzzm/zhengming.github.io/blob/gh-pages/img/zzm.jpg)
-
 You can use the [editor on GitHub](https://github.com/jhcknzzm/zhengming.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -16,17 +14,6 @@ Zhengming Zhang received the B.S. in electronic information science and technolo
 6. <font color='#CC6600' size=3>Cache-Enabled Adaptive Bit Rate Streaming via Deep Self-Transfer Reinforcement Learning</font> Z. Zhang, Y. Zheng, C. Li, Y. Huang and L. Yang, 2018 10th International Conference on Wireless Communications and Signal Processing (WCSP), Hangzhou, 2018, pp. 1-6, doi: 10.1109/WCSP.2018.8555916. [paper](https://ieeexplore.ieee.org/document/8555916)
 
 
-**Bold** and _Italic_ and `Code` text
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jhcknzzm/zhengming.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+## Support or Contact
 
 Email: zmzhang@seu.edu.cn
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
