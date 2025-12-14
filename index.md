@@ -4,6 +4,9 @@
 ## About Me
 Zhang Zhengming graduated with a Ph.D. in Information and Communication Engineering from the School of Information Science and Engineering, Southeast University in 2023. My main research directions are **deep learning, reinforcement learning, federated learning, semi-supervised learning, ultra-high-dimensional data compression and recovery, and wireless communication**.
 
+## 
+I am passionate about exploring new technologies, such as physical/biological inspired neural network models, and attempting to apply them in all aspects of reality. The future world I envision is one where humans and AI coexist amicably and help each other. At that time, I could chat and discuss work with "Gungun" (my AI assistant) in a fully self-driving car, while the person I loved was by my side, the wearer's XR glasses were playing games, and the AI had already helped us make reasonable travel arrangements and date locations. What a wonderful day!
+
 ## Work Experience
 <font color='#CC6600' size=3> 2023- Present: Senior Engineer at Huawei in Shanghai
 <font color='#CC6600' size=3> As the Owner, I have been conducting research and implementation on wireless ultra-large-scale matrix compression and recovery based on large models.
@@ -33,6 +36,15 @@ Zhang Zhengming graduated with a Ph.D. in Information and Communication Engineer
 22. <font color='#CC6600' size=3> P. Zheng, Y. Zhu, Y. Hu, **Z. Zhang** and A. Schmeink, "Federated Learning in Heterogeneous Networks With Unreliable Communication," in IEEE Transactions on Wireless Communications, vol. 23, no. 4, pp. 3823-3838, April 2024, doi: 10.1109/TWC.2023.3311824.
 23. <font color='#CC6600' size=3> K. Sun, W. Lin, H. Shi, Y. Liu, **Z. Zhang**, Y. Huang, "AIRA-DA: Adversarial Image Reconstruction Alignments for Unsupervised Domain Adaptive Object Detection," in IEEE Robotics and Automation Letters, vol. 8, no. 6, pp. 3645-3652, June 2023, doi: 10.1109/LRA.2023.3267692.
 24. <font color='#CC6600' size=3> Y. Huang, C. Xu, C. Zhang, M. Hua and **Z. Zhang**, "An Overview of Intelligent Wireless Communications using Deep Reinforcement Learning," in Journal of Communications and Information Networks, vol. 4, no. 2, pp. 15-29, June 2019, doi: 10.23919/JCIN.2019.8917869.
+
+Published patents
+1. <font color='#CC6600' size=3> CN120409543A, Application date: January 31, 2024, Publication Date: August 1, 2025.
+2. <font color='#CC6600' size=3> CN120725084A, Application date: March 28, 2024 Publication date: September 30, 2025.
+3. <font color='#CC6600' size=3> CN120046722A, Application Date: November 24, 2023 Publication Date: May 27, 2025.
+4. <font color='#CC6600' size=3> CN120197733A, Application Date: December 21, 2023. Publication Date: June 24, 2025.
+5. <font color='#CC6600' size=3> WO2025201113A1, Application date: March 18, 2025-Disclosure date: October 2, 2025.
+6. <font color='#CC6600' size=3> WO2025131014A1, Application Date: December 20, 2024-Public Date: June 26, 2025.
+7. <font color='#CC6600' size=3> WO2025108413A1, Application Date: November 22, 2024 Public Date: May 30, 2025.
 
 
 ## Support or Contact
