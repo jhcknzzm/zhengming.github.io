@@ -49,6 +49,6 @@ Published patents:
 
 ## Support or Contact
 
-- Email: zmzhang@seu.edu.cn
+- Email: 2352121039@qq.com
 
 - [Google Scholar](https://scholar.google.com/citations?user=GePqbSgAAAAJ&hl=en&oi=ao)
