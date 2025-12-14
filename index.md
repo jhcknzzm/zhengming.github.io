@@ -55,7 +55,8 @@ Published patents:
 6. <font color='#CC6600' size=3> WO2025131014A1, Application Date: December 20, 2024-Public Date: June 26, 2025.
 7. <font color='#CC6600' size=3> WO2025108413A1, Application Date: November 22, 2024-Public Date: May 30, 2025.
 
-## International cooperation
+## International cooperation  
+
 
 I collaborated with the teachers and students of Professor Michael W. Mahoney's RISE Lab at the University of UCBerkeley in the United States to conduct research on semi-supervised federated learning algorithms, and the related international conference paper was accepted.
 
