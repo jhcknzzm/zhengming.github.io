@@ -14,7 +14,7 @@ I am passionate about exploring new technologies, such as physical/biological in
 
 <font color='#CC6600' size=3> As the Owner, I have been conducting research and implementation on wireless ultra-large-scale matrix compression and recovery based on large models.
 
-- Design and Development of a large model for beam classification.
+- Design and Development of a large AI model for beam classification.
 - Design and Implementation of Symbol-level Precoding AI Algorithm.
 - Design, development, and lightweighting of large white-box AI models for channel matrix compression and recovery.
 - Do research on channel matrix compression and recovery based on diffusion models.
