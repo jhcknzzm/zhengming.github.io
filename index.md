@@ -1,5 +1,5 @@
 ## Welcome to My Website
-![Imag](/img/89cb48ba504db88969106d65b38f5158.jpeg)
+![Imag](/img/zzm_photo.jpg)
 
 ## About Me
 Zhang Zhengming graduated with a Ph.D. in Information and Communication Engineering from the School of Information Science and Engineering, Southeast University in 2023. My main research directions are **deep learning, reinforcement learning, federated learning, semi-supervised learning, ultra-high-dimensional data compression and recovery, and wireless communication**.
