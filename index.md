@@ -8,7 +8,9 @@ Zhang Zhengming graduated with a Ph.D. in Information and Communication Engineer
 I am passionate about exploring new technologies, such as physical/biological inspired neural network models, and attempting to apply them in all aspects of reality. The future world I envision is one where humans and AI coexist amicably and help each other. At that time, I could chat and discuss work with my AI assistant "Gungun" in a fully self-driving car, while the person I loved was playing games with XR glasses beside me. The AI had already made reasonable travel plans and date locations for us. What a wonderful day!
 
 ## Work Experience
-<font color='#CC6600' size=3> 2023- Present: Senior Engineer at Huawei in Shanghai
+<font color='#CC6600' size=3> 2023- Present: Senior Engineer at Huawei in Shanghai.  
+
+
 <font color='#CC6600' size=3> As the Owner, I have been conducting research and implementation on wireless ultra-large-scale matrix compression and recovery based on large models.
 
 ## Publications
