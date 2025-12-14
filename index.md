@@ -15,7 +15,7 @@ I am passionate about exploring new technologies, such as physical/biological in
 
 - Design and Development of a large model for beam classification.
 - Design and Implementation of Symbol-level Precoding AI Algorithm.
-- Design and Development of a large white-box AI model for Channel matrix compression and recovery.
+- Design, development, and lightweighting of large white-box AI models for channel matrix compression and recovery.
 - Do research on channel matrix compression and recovery based on diffusion models.
 - Design a one-side semantic communication model to achieve efficient and high-precision compression and recovery of high-dimensional matrices.
 
