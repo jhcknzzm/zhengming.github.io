@@ -4,6 +4,10 @@
 ## About Me
 Zhang Zhengming graduated with a Ph.D. in Information and Communication Engineering from the School of Information Science and Engineering, Southeast University in 2023. My main research directions are **deep learning, reinforcement learning, federated learning, semi-supervised learning, ultra-high-dimensional data compression and recovery, and wireless communication**.
 
+## Work Experience
+<font color='#CC6600' size=3> 2023- Present: Senior Engineer at Huawei in Shanghai
+<font color='#CC6600' size=3> As the Owner, I have been conducting research and implementation on wireless ultra-large-scale matrix compression and recovery based on large models.
+
 ## Publications
 1. <font color='#CC6600' size=3> **Z. Zhang**, et al., "Neurotoxin: Durable Backdoors in Federated Learning," 2022 International Conference on Machine Learninga (ICML), 2022.
 2. <font color='#CC6600' size=3> **Z. Zhang**, et al., "Improving Semi-supervised Federated Learning by Reducing the Gradient Diversity of Models," 2021 IEEE International Conference on Big Data (Big Data), 2021, pp. 1214-1225, doi: 10.1109/BigData52589.2021.9671693.
