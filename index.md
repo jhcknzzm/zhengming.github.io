@@ -13,6 +13,12 @@ I am passionate about exploring new technologies, such as physical/biological in
 
 <font color='#CC6600' size=3> As the Owner, I have been conducting research and implementation on wireless ultra-large-scale matrix compression and recovery based on large models.
 
+- Design and developed a large model for beam management.
+- Design and Implementation of Symbol-level Precoding AI Algorithm.
+- Design and Development of a large white-box AI model for Channel matrix compression and recovery.
+- Do research on Channel matrix compression and recovery Based on Diffusion Model.
+- Design a one-side semantic communication model to achieve efficient and high-precision compression and recovery of high-dimensional matrices.
+
 ## Publications
 1. <font color='#CC6600' size=3> **Z. Zhang**, et al., "Neurotoxin: Durable Backdoors in Federated Learning," 2022 International Conference on Machine Learninga (ICML), 2022.  
 2. <font color='#CC6600' size=3> **Z. Zhang**, et al., "Improving Semi-supervised Federated Learning by Reducing the Gradient Diversity of Models," 2021 IEEE International Conference on Big Data (Big Data), 2021, pp. 1214-1225, doi: 10.1109/BigData52589.2021.9671693.  
