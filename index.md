@@ -18,9 +18,9 @@ I am passionate about exploring new technologies, such as physical/biological in
   
 -- Design and implementation of end-to-end precoding AI algorithm: model the environmental perception, transmission strategy planning, and design of the reception as a symbol-level \textbf{end-to-end system optimization problem}, and develop an AI-based solution to achieve end-to-end optimization.
 
--- Design and Implementation of the large white-box AI models for channel matrix compression and recovery: design \textbf{a multimodal large model based on the white-box Transformer}, integrate temporal sequences and frequency domain features, to construct an \textbf{interpretable and secure AI model}.
+-- Design and Implementation of the large white-box AI models for channel matrix compression and recovery: design a multimodal large model based on the white-box Transformer, integrate temporal sequences and frequency domain features, to construct an interpretable and secure AI model.
 
--- Do research on channel matrix compression and recovery based on diffusion models: construct a new framework for \textbf{generating AI models from diffusion models to achieve test time adaptation}. 
+-- Do research on channel matrix compression and recovery based on diffusion models: construct a new framework for generating AI models from diffusion models to achieve test time adaptation. 
 
 -- Design a user-friendly and lightweight channel matrix compression and recovery algorithm: adopting the approach of using a small model at the user side and a large model at the network side.
 
