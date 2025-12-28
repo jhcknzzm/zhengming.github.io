@@ -14,27 +14,27 @@ I am passionate about exploring new technologies, such as physical/biological in
 
 <font color='#CC6600' size=3> As the Owner, I have been conducting research and implementation on wireless ultra-large-scale matrix compression and recovery based on large models.
 
--- Design and development of a large MAE model for beam prediction: integrate channel state information and received signal strength information, and build a modal fusion ViT backbone to achieve high-precision classification. 
+- Design and development of a large MAE model for beam prediction: integrate channel state information and received signal strength information, and build a modal fusion ViT backbone to achieve high-precision classification. 
   
--- Design and implementation of end-to-end precoding AI algorithm: model the environmental perception, transmission strategy planning, and design of the reception as a symbol-level end-to-end system optimization problem, and develop an AI-based solution to achieve end-to-end optimization.
+- Design and implementation of end-to-end precoding AI algorithm: model the environmental perception, transmission strategy planning, and design of the reception as a symbol-level end-to-end system optimization problem, and develop an AI-based solution to achieve end-to-end optimization.
 
--- Design and Implementation of the large white-box AI models for channel matrix compression and recovery: design a multimodal large model based on the white-box Transformer, integrate temporal sequences and frequency domain features, to construct an interpretable and secure AI model.
+- Design and Implementation of the large white-box AI models for channel matrix compression and recovery: design a multimodal large model based on the white-box Transformer, integrate temporal sequences and frequency domain features, to construct an interpretable and secure AI model.
 
--- Do research on channel matrix compression and recovery based on diffusion models: construct a new framework for generating AI models from diffusion models to achieve test time adaptation. 
+- Do research on channel matrix compression and recovery based on diffusion models: construct a new framework for generating AI models from diffusion models to achieve test time adaptation. 
 
--- Design a user-friendly and lightweight channel matrix compression and recovery algorithm: adopting the approach of using a small model at the user side and a large model at the network side.
+- Design a user-friendly and lightweight channel matrix compression and recovery algorithm: adopting the approach of using a small model at the user side and a large model at the network side.
 
 ## Personal Skills &  Strengths
 
--- AI Model Architecture Design: Possesses in-depth expertise in foundational architectures of large models such as Vision Transformer (ViT), Masked Autoencoders (MAE), Vision-Language Models (VLM), and Mixture-of-Experts (MoE). Has a strong research foundation in Transformer architectures and their next-generation variants, including Mamba, White-Box Transformer, and Titan. Previously designed a recurrent Transformer model integrated with GPT that exhibits self-reflective capabilities, outperforming conventional Transformer models in performance.
+- AI Model Architecture Design: Possesses in-depth expertise in foundational architectures of large models such as Vision Transformer (ViT), Masked Autoencoders (MAE), Vision-Language Models (VLM), and Mixture-of-Experts (MoE). Has a strong research foundation in Transformer architectures and their next-generation variants, including Mamba, White-Box Transformer, and Titan. Previously designed a recurrent Transformer model integrated with GPT that exhibits self-reflective capabilities, outperforming conventional Transformer models in performance.
 
--- World Model, Digital Twin, and Agent: Has foundational research experience in world models, digital twins, and intelligent agents. Proposed a dual-loop, three-domain digital twin framework and developed a resource management agent based on this framework to enhance the performance and stability of AI models.
+- World Model, Digital Twin, and Agent: Has foundational research experience in world models, digital twins, and intelligent agents. Proposed a dual-loop, three-domain digital twin framework and developed a resource management agent based on this framework to enhance the performance and stability of AI models.
 
--- Learning Algorithms: Conducted thorough research on in-context learning and multi-module end-to-end optimization. Introduced context compression, memory, and retrieval algorithms to improve the performance of Transformers applied to data compression. For end-to-end optimization, proposed the LayerLock training strategy to enhance the stability of end-to-end training processes.
+- Learning Algorithms: Conducted thorough research on in-context learning and multi-module end-to-end optimization. Introduced context compression, memory, and retrieval algorithms to improve the performance of Transformers applied to data compression. For end-to-end optimization, proposed the LayerLock training strategy to enhance the stability of end-to-end training processes.
 
--- Training Frameworks: Has substantial experience in distributed training and federated learning, with familiarity in Distributed Data Parallel (DDP) and mixed-precision training. Previously open-sourced a semi-supervised federated learning distributed training framework: SSFL (https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning).
+- Training Frameworks: Has substantial experience in distributed training and federated learning, with familiarity in Distributed Data Parallel (DDP) and mixed-precision training. Previously open-sourced a semi-supervised federated learning distributed training framework: SSFL (https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning).
 
--- Basic Theories of AI: Holds a strong theoretical background in AI fundamentals, including Loss Landscape, Neural Tangent Kernel (NTK), Explainable AI, and convergence analysis of model training. Capable of analyzing and diagnosing model performance bottlenecks from a theoretical perspective and improving model performance accordingly.
+- Basic Theories of AI: Holds a strong theoretical background in AI fundamentals, including Loss Landscape, Neural Tangent Kernel (NTK), Explainable AI, and convergence analysis of model training. Capable of analyzing and diagnosing model performance bottlenecks from a theoretical perspective and improving model performance accordingly.
 
 ## Publications
 1. <font color='#CC6600' size=3> **Z. Zhang**, et al., "Neurotoxin: Durable Backdoors in Federated Learning," 2022 International Conference on Machine Learning (ICML), 2022.  
