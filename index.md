@@ -16,7 +16,7 @@ I am passionate about exploring new technologies, such as physical/biological in
 
 -- Design and development of a large MAE model for beam prediction: integrate channel state information and received signal strength information, and build a modal fusion ViT backbone to achieve high-precision classification. 
   
--- Design and implementation of end-to-end precoding AI algorithm: model the environmental perception, transmission strategy planning, and design of the reception as a symbol-level \textbf{end-to-end system optimization problem}, and develop an AI-based solution to achieve end-to-end optimization.
+-- Design and implementation of end-to-end precoding AI algorithm: model the environmental perception, transmission strategy planning, and design of the reception as a symbol-level end-to-end system optimization problem, and develop an AI-based solution to achieve end-to-end optimization.
 
 -- Design and Implementation of the large white-box AI models for channel matrix compression and recovery: design a multimodal large model based on the white-box Transformer, integrate temporal sequences and frequency domain features, to construct an interpretable and secure AI model.
 
